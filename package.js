@@ -17,6 +17,7 @@ Package.onUse(function (api) {
       'lib/no-data-to-display.js',
       'lib/modules/maps.js',
       'lib/modules/map-custom-world.js',
+      'lib/modules/exporting.src.js',
       // Extra types
       'lib/highcharts-more.js',
       // Helper
